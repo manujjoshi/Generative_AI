@@ -7,3 +7,4 @@
 **Chat GPT Explained: [Link](https://www.youtube.com/watch?v=NpmnWgQgcsA)** <br>
 **What are Vector Databases: [Link](https://www.youtube.com/watch?v=dN0lsF2cvm4)** <br>
 **What are Attention Mechanism: [Link](https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/)** <br>
+**Pre-training in LLMs:** [Link](https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html)<br>
