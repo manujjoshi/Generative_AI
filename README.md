@@ -11,3 +11,4 @@
 **Langchain Guide by Greg Kamradt:** [Link](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5) <br>
 **Langchain Documentation:** [Link](https://docs.langchain.com/docs/) <br>
 **Chain Types in LangChain:** [Link](https://youtu.be/f9_BWhCI4Zo) && [Notebook](https://github.com/manujjoshi/Generative_AI/blob/main/langchain-tutorials/chains/Chain%20Types.ipynb)<br>
+Chain Types: 1)Stuff 2)Map_Reduce 3)Refine 4)Map_re-Rank 
