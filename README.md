@@ -10,3 +10,4 @@
 **Pre-training in LLMs:** [Link](https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html)<br>
 **Langchain Guide by Greg Kamradt:** [Link](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5) <br>
 **Langchain Documentation:** [Link](https://docs.langchain.com/docs/) <br>
+**Chain Types in LanfChain:** [Link](https://youtu.be/f9_BWhCI4Zo) <br>
