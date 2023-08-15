@@ -12,4 +12,5 @@
 **Langchain Documentation:** [Link](https://docs.langchain.com/docs/) <br>
 **Chain Types in LangChain:** [Link](https://youtu.be/f9_BWhCI4Zo) && [Notebook](https://github.com/manujjoshi/Generative_AI/blob/main/langchain-tutorials/chains/Chain%20Types.ipynb)<br>
 **Chain Types: 1)Stuff 2)Map_Reduce 3)Refine 4)Map_re-Rank** <br>
-**Write 100s of Custom mails within minutes:** [Link](https://www.youtube.com/watch?v=y1pyAQM-3Bo&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=14)<br>
+**Write 100s of Custom emails within minutes:** [Link](https://www.youtube.com/watch?v=y1pyAQM-3Bo&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=14)<br>
+**James Briggs Generative AI and LLMs:** [Link](https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLgBf0X_KzRlsqyM2Cs7Dxp9&index=2)<br>
