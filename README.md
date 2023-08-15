@@ -14,3 +14,17 @@
 **Chain Types: 1)Stuff 2)Map_Reduce 3)Refine 4)Map_re-Rank** <br>
 **Write 100s of Custom emails within minutes:** [Link](https://www.youtube.com/watch?v=y1pyAQM-3Bo&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=14)<br>
 **James Briggs Generative AI and LLMs:** [Link](https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLgBf0X_KzRlsqyM2Cs7Dxp9&index=2)<br>
+**12 best LLMs in 2023:** [Link](https://beebom.com/best-large-language-models-llms/)
+1. GPT-4
+2. GPT-3.5
+3. PaLM2(Bison-001)
+4. Claude v1
+5. Cohere
+6. Falcon
+7. LLaMA
+8. Guananco-65B
+9. Vicuna-33B
+10. MPT-30B
+11. 30B-Lazarus
+12. WizardLM
+13. GPT4All
