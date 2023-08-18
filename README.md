@@ -30,4 +30,5 @@
 13. GPT4All <br>
 
 **Automated Selef improving CHat GPT using meta prompt:** [Link](https://python.langchain.com/docs/use_cases/autonomous_agents/meta_prompt) [Vieo_Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9) <br>
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F468217b9-96d9-47c0-a08b-dbf6b21b9f49_492x384.png)
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F468217b9-96d9-47c0-a08b-dbf6b21b9f49_492x384.png)<br>
+**Chat with your code REPO using Chat GPT:** [Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9)
