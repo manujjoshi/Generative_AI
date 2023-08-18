@@ -28,4 +28,4 @@
 11. 30B-Lazarus
 12. WizardLM
 13. GPT4All <br>
-14. **Automated Selef improving CHat GPT using meta prompt:** [Link](https://python.langchain.com/docs/use_cases/autonomous_agents/meta_prompt] [Vieo_Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9) <br>
+**Automated Selef improving CHat GPT using meta prompt:** [Link](https://python.langchain.com/docs/use_cases/autonomous_agents/meta_prompt] [Vieo_Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9) <br>
