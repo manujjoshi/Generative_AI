@@ -34,4 +34,5 @@
 **Chat with your code REPO using Chat GPT:** [Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9)<br>
 **Connect Chat GPT to your website chatbot** [Link](https://www.youtube.com/watch?v=IcwbjD_nXG4&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=10)<br>
 **MIT Deep Learning 6.S191 2023 Lectures** [Link](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) <br>
+**Stanford NLP Lectures** [Link](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) <br>
 **Build an E-commerce Chatbot With Redis, LangChain, and OpenAI** [Link](https://redis.com/blog/build-ecommerce-chatbot-with-redis/) && [Code_Repo](https://github.com/RedisVentures/redis-langchain-chatbot)<br>
