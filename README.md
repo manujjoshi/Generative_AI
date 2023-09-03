@@ -36,3 +36,4 @@
 **MIT Deep Learning 6.S191 2023 Lectures** [Link](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) <br>
 **Stanford NLP Lectures** [Link](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) <br>
 **Build an E-commerce Chatbot With Redis, LangChain, and OpenAI** [Link](https://redis.com/blog/build-ecommerce-chatbot-with-redis/) && [Code_Repo](https://github.com/RedisVentures/redis-langchain-chatbot)<br>
+**Pandas AI** [Link](https://github.com/gventuri/pandas-ai)
