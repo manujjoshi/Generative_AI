@@ -39,5 +39,5 @@
 **Pandas AI** [Link](https://github.com/gventuri/pandas-ai)
 
 ## Whisper
-![](https://github.com/manujjoshi/Generative_AI/blob/main/Whisper_architecture.PNG)
-### [Link](https://www.youtube.com/watch?v=A0MkJDPZVqQ)
+<img src="https://github.com/manujjoshi/Generative_AI/blob/main/Whisper_architecture.PNG" alt="Drawing" style="width: 700px;"/>
+### [Video_Link](https://www.youtube.com/watch?v=A0MkJDPZVqQ) [Github_REPO](https://github.com/openai/whisper)
