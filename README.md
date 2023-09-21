@@ -31,6 +31,8 @@
 
 **Automated Selef improving CHat GPT using meta prompt:** [Link](https://python.langchain.com/docs/use_cases/autonomous_agents/meta_prompt) [Vieo_Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9) <br>
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F468217b9-96d9-47c0-a08b-dbf6b21b9f49_492x384.png)<br>
+## Whisper
+![](https://github.com/manujjoshi/Generative_AI/blob/main/Whisper_architecture.PNG)
 **Chat with your code REPO using Chat GPT:** [Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9)<br>
 **Connect Chat GPT to your website chatbot** [Link](https://www.youtube.com/watch?v=IcwbjD_nXG4&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=10)<br>
 **MIT Deep Learning 6.S191 2023 Lectures** [Link](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) <br>
