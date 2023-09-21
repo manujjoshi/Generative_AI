@@ -19,23 +19,25 @@
 2. GPT-3.5
 3. PaLM2(Bison-001)
 4. Claude v1
-5. Cohere
-6. Falcon
-7. LLaMA
-8. Guananco-65B
-9. Vicuna-33B
-10. MPT-30B
-11. 30B-Lazarus
-12. WizardLM
-13. GPT4All <br>
+6. Cohere
+7. Falcon
+8. LLaMA
+9. Guananco-65B
+10. Vicuna-33B
+11. MPT-30B
+12. 30B-Lazarus
+13. WizardLM
+14. GPT4All <br>
 
 **Automated Selef improving CHat GPT using meta prompt:** [Link](https://python.langchain.com/docs/use_cases/autonomous_agents/meta_prompt) [Vieo_Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9) <br>
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F468217b9-96d9-47c0-a08b-dbf6b21b9f49_492x384.png)<br>
-## Whisper
-![](https://github.com/manujjoshi/Generative_AI/blob/main/Whisper_architecture.PNG)
 **Chat with your code REPO using Chat GPT:** [Link](https://www.youtube.com/watch?v=AmJGYu0U1L8&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=9)<br>
 **Connect Chat GPT to your website chatbot** [Link](https://www.youtube.com/watch?v=IcwbjD_nXG4&list=PLiQS6N-W1p3lZUqyx0KQuGhhVYWH6wgDw&index=10)<br>
 **MIT Deep Learning 6.S191 2023 Lectures** [Link](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) <br>
 **Stanford NLP Lectures** [Link](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) <br>
 **Build an E-commerce Chatbot With Redis, LangChain, and OpenAI** [Link](https://redis.com/blog/build-ecommerce-chatbot-with-redis/) && [Code_Repo](https://github.com/RedisVentures/redis-langchain-chatbot)<br>
 **Pandas AI** [Link](https://github.com/gventuri/pandas-ai)
+
+## Whisper
+![](https://github.com/manujjoshi/Generative_AI/blob/main/Whisper_architecture.PNG)
+### [Link](https://www.youtube.com/watch?v=A0MkJDPZVqQ)
