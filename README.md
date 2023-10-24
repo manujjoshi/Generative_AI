@@ -40,6 +40,7 @@
 
 ## Whisper
 <img src="https://github.com/manujjoshi/Generative_AI/blob/main/Whisper_architecture.PNG" alt="Drawing" style="width: 700px;"/>
+
 ### [Video_Link](https://www.youtube.com/watch?v=A0MkJDPZVqQ) [Github_REPO](https://github.com/openai/whisper) [Research_Paper](https://cdn.openai.com/papers/whisper.pdf)
 
 ## Text to Speech SpeechT5
